@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kuznetsovsergeyymailcom/robots-2/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kuznetsovsergeyymailcom/robots-2/static/js/main.41dba4ef.chunk.js",
-    "main.js.map": "/kuznetsovsergeyymailcom/robots-2/static/js/main.41dba4ef.chunk.js.map",
-    "runtime-main.js": "/kuznetsovsergeyymailcom/robots-2/static/js/runtime-main.9c791dbe.js",
-    "runtime-main.js.map": "/kuznetsovsergeyymailcom/robots-2/static/js/runtime-main.9c791dbe.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/kuznetsovsergeyymailcom/robots-2/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.2be83f45.chunk.js": "/kuznetsovsergeyymailcom/robots-2/static/js/2.2be83f45.chunk.js",
-    "static/js/2.2be83f45.chunk.js.map": "/kuznetsovsergeyymailcom/robots-2/static/js/2.2be83f45.chunk.js.map",
-    "index.html": "/kuznetsovsergeyymailcom/robots-2/index.html",
-    "precache-manifest.663e78ed8dbaf6d8883a9b503df751ff.js": "/kuznetsovsergeyymailcom/robots-2/precache-manifest.663e78ed8dbaf6d8883a9b503df751ff.js",
-    "service-worker.js": "/kuznetsovsergeyymailcom/robots-2/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/kuznetsovsergeyymailcom/robots-2/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/kuznetsovsergeyymailcom/robots-2/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.2be83f45.chunk.js.LICENSE.txt": "/kuznetsovsergeyymailcom/robots-2/static/js/2.2be83f45.chunk.js.LICENSE.txt"
+    "main.css": "/robots-2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/robots-2/static/js/main.0a91bef8.chunk.js",
+    "main.js.map": "/robots-2/static/js/main.0a91bef8.chunk.js.map",
+    "runtime-main.js": "/robots-2/static/js/runtime-main.1b6e7513.js",
+    "runtime-main.js.map": "/robots-2/static/js/runtime-main.1b6e7513.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robots-2/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2be83f45.chunk.js": "/robots-2/static/js/2.2be83f45.chunk.js",
+    "static/js/2.2be83f45.chunk.js.map": "/robots-2/static/js/2.2be83f45.chunk.js.map",
+    "index.html": "/robots-2/index.html",
+    "precache-manifest.19744878cd5757bad4380118b335b88e.js": "/robots-2/precache-manifest.19744878cd5757bad4380118b335b88e.js",
+    "service-worker.js": "/robots-2/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robots-2/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/robots-2/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2be83f45.chunk.js.LICENSE.txt": "/robots-2/static/js/2.2be83f45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c791dbe.js",
+    "static/js/runtime-main.1b6e7513.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.2be83f45.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.41dba4ef.chunk.js"
+    "static/js/main.0a91bef8.chunk.js"
   ]
 }
