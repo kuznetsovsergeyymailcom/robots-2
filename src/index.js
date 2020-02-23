@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import 'tachyons';
+// import Card from './Card';
+import {robots} from './robots';
+import CardList from './cardList';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
